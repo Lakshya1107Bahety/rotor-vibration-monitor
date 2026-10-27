@@ -1,0 +1,3 @@
+data/simulated/
+__pycache__/
+*.pyc
